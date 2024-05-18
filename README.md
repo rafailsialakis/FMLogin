@@ -3,44 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            overflow-x: auto;
-        }
-        code {
-            background: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
 </head>
 <body>
-
 <h1>Login Page in Java</h1>
-
 <p>This repository contains a simple login page implemented in Java with a focus on the graphical user interface (GUI) using Swing. This project serves as a basic template for building more complex applications that require user authentication.</p>
-
 <h2>Introduction</h2>
 <p>This project demonstrates the creation of a login page using Java Swing. The primary objective is to provide a visually appealing interface for user login without any backend functionality. It can be used as a foundation for further development, such as integrating with a database or adding more features.</p>
 
-<h2>Screenshots</h2>
-<p><img src="path/to/screenshot1.png" alt="Login Page Screenshot 1"></p>
-<p><img src="path/to/screenshot2.png" alt="Login Page Screenshot 2"></p>
 
 <h2>Installation</h2>
 <ol>
