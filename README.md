@@ -14,16 +14,7 @@
 <h2>Installation</h2>
 <ol>
     <li><strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/yourusername/login-page-java.git</code></pre>
-    </li>
-    <li><strong>Navigate to the project directory:</strong>
-        <pre><code>cd login-page-java</code></pre>
-    </li>
-    <li><strong>Compile the Java files:</strong>
-        <pre><code>javac -d bin src/com/example/login/*.java</code></pre>
-    </li>
-    <li><strong>Run the application:</strong>
-        <pre><code>java -cp bin com.example.login.LoginPage</code></pre>
+        <pre><code>git clone https://github.com/rafailsiala/FMLogin</code></pre>
     </li>
 </ol>
 
